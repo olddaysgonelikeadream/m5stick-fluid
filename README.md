@@ -1,5 +1,5 @@
 
-# m5stick-fluid
+# M5Stack StickS3: Bottle of Water
 
 Real-time FLIP fluid simulation running on the M5Stack StickS3 (ESP32-based).
 Tilt the device and gravity follows the IMU. Connect it to a PC and CPU load drives the sloshing intensity.
