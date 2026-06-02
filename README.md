@@ -1,9 +1,4 @@
 
-https://github.com/user-attachments/assets/b53fd02f-69fa-48fc-895d-b2253822a2ca
-
-
-
-
 # m5stick-fluid
 
 Real-time FLIP fluid simulation running on the M5Stack StickS3 (ESP32-based).
