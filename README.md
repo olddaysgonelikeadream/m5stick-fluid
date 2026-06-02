@@ -4,7 +4,6 @@
 Real-time FLIP fluid simulation running on the M5Stack StickS3 (ESP32-based).
 Tilt the device and gravity follows the IMU. Connect it to a PC and CPU load drives the sloshing intensity.
 
-> Demo video
 https://github.com/user-attachments/assets/f462f6c0-06ec-47af-815c-d81d297b62bf
 
 
